@@ -10,4 +10,4 @@ function toNumber(value) {
         throw 'Tipo não suportado | string';
     }
 }
-console.log(toNumber('1234'));
+console.log(toNumber('4000'));
