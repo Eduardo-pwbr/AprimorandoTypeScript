@@ -11,4 +11,4 @@ function toNumber(value: string | number){
     }
 
 }
-console.log(toNumber('1234'));
+console.log(toNumber('4000'));
