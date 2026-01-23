@@ -1,6 +1,6 @@
 const button = document.querySelector("button");
 const config = localStorage.getItem("config");
-let total;
+let imprimirTotal;
 
 
 if (button !== null) {
@@ -13,7 +13,7 @@ if(button){
 button?.click();
 console.log(Boolean(config));
 
-console.log("Valor não definido: " + total);
+console.log("Valor não definido: " + imprimirTotal);
 
 interface Produto {
   nome: string;
