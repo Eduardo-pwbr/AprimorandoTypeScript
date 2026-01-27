@@ -1,4 +1,4 @@
-                                                                "use strict";
+"use strict";
 /*function retornoGenerics<variavel>(a:variavel): variavel {
     return a;
 }*/
